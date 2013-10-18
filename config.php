@@ -23,4 +23,4 @@ $menu = array(
 
 );
 
-$recipient = "me@nealshyam.com";
+$recipient = "your.email@addre.ss";

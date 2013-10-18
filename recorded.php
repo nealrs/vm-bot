@@ -10,7 +10,7 @@
 //);
 
 // email us the details
-//mail("nealrs@gmail.com", "New vm from ".$_REQUEST['From'], print_r($data, true));
+//mail($recipient, "New vm from ".$_REQUEST['From'], print_r($data, true));
 
 ?>
 <Response>
