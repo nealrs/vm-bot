@@ -5,13 +5,8 @@ I hate voicemail, but I love twilio.
 
 1. Set your email address in config.php
 2. Upload somewhere web accessable
-3. Point your twilio # at it.
-
-**Make it your own**
-
-- Write your own facts
-- Switch to a female answering voice
-- Add other integrations
+3. Point your twilio # at it
+4. Make it your own
 
 **Menu**
 
