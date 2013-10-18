@@ -12,6 +12,6 @@ $data = array(
 );
 
 // email us the details
-mail($recipient, "New voicemail transcribed: ".$_REQUEST['CallSid'], print_r($data, true));
+mail($recipient, "New vm from ".$_REQUEST['From'], print_r($data, true));
 
 ?>

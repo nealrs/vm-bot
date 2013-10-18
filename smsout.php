@@ -2,6 +2,6 @@
 include("config.php");
 ?>
 <Response>
-  <Sms><?php echo $recipient; ?></Sms>
-  <Say>You should now be receiving an s m s from us. Good bye. smile e face.</Say>
+  <Sms><?php echo "Email Neal at ".$recipient; ?></Sms>
+  <Say voice="man">Thank you! You should receive a text from us soon.</Say>
 </Response>
