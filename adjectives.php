@@ -5,6 +5,7 @@ $phrases = array(
   "always punctual",
   "fun to work with",
   "synergistic",
+  "fluent in MBA"
   "a team player",
   "ruthlessly efficient",
   "laser focused",
